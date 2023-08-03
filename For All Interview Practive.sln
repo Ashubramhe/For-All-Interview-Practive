@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqRetriveData", "LinqRetr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseStringProgramm", "ReverseStringProgramm\ReverseStringProgramm.csproj", "{EA56C8F4-E322-42FB-A257-2F8B736D89E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate Charecter in Word", "Duplicate Charecter in Word\Duplicate Charecter in Word.csproj", "{6D454763-051C-4D25-8283-AFD004DBF6EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Duplicate Charecter in Word", "Duplicate Charecter in Word\Duplicate Charecter in Word.csproj", "{6D454763-051C-4D25-8283-AFD004DBF6EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton Object", "Singleton Object\Singleton Object.csproj", "{BF880806-53B3-4F91-ABD8-47E70E5AB351}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{6D454763-051C-4D25-8283-AFD004DBF6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D454763-051C-4D25-8283-AFD004DBF6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D454763-051C-4D25-8283-AFD004DBF6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF880806-53B3-4F91-ABD8-47E70E5AB351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF880806-53B3-4F91-ABD8-47E70E5AB351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF880806-53B3-4F91-ABD8-47E70E5AB351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF880806-53B3-4F91-ABD8-47E70E5AB351}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
